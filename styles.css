@@ -2,11 +2,11 @@
    Tokens (light theme only)
    ============================================= */
 :root {
-  --color-bg:     #e8e5dd;
-  --color-text:   #1A1A1A;
-  --color-muted:  #4A4A4A;
-  --color-accent: #1f5f5a;
-  --color-accent-hover: #174836;
+  --color-bg:     #e6dfcb;
+  --color-text:   #1d1c1c;
+  --color-muted:  #4d4a4a;
+  --color-accent: #4b1f5f;
+  --color-accent-hover: #3c1748;
   --color-border: #DDD9CF;
 
   --font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
