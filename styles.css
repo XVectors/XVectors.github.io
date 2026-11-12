@@ -68,7 +68,7 @@ a { color: inherit; }
 
 .btn-primary {
   background: var(--color-accent);
-  color: #ede8d9;
+  color: #f8f5ed;
 }
 .btn-primary:hover { background: var(--color-accent-hover); }
 
